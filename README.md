@@ -1,2 +1,2 @@
 # hello-world
-This is a traditional Hello World to get started
+A traditional "Hello World" to get started
